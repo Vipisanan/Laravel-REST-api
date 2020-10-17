@@ -9,6 +9,8 @@ class CountryModel extends Model
     //01. define RDB name
     //02. define fillable
     protected $table ="_z_country";
+    public $timestamps = false;
+
     protected $fillable=[
             'iso',
             'name',
