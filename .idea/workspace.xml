@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fe59edf-4519-4277-8735-7b1eea534823" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/my-laravel-crud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-laravel-crud.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Country/CountryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Country/CountryController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
@@ -162,7 +160,7 @@
       <updated>1602951562868</updated>
       <workItem from="1602951564467" duration="1200000" />
       <workItem from="1602955960784" duration="1912000" />
-      <workItem from="1602958028429" duration="6644000" />
+      <workItem from="1602958028429" duration="7153000" />
     </task>
     <servers />
   </component>
