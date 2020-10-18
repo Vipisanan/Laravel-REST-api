@@ -4,7 +4,6 @@
     <list default="true" id="3fe59edf-4519-4277-8735-7b1eea534823" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Country/CountryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Country/CountryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +141,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -160,7 +160,7 @@
       <updated>1602951562868</updated>
       <workItem from="1602951564467" duration="1200000" />
       <workItem from="1602955960784" duration="1912000" />
-      <workItem from="1602958028429" duration="7153000" />
+      <workItem from="1602958028429" duration="8249000" />
     </task>
     <servers />
   </component>
@@ -169,5 +169,11 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="482" y="187" key="SettingsEditor" timestamp="1602991995161">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1602991995161" />
   </component>
 </project>
