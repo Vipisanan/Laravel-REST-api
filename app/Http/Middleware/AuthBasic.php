@@ -21,7 +21,6 @@ class AuthBasic
         $AUTH_PASS = 'admin';
         header('Cache-Control: no-cache, must-revalidate, max-age=0');
         $has_supplied_credentials = !(empty($_SERVER['PHP_AUTH_USER']) && empty($_SERVER['PHP_AUTH_PW']));
-        error_log($_SERVER['PHP_AUTH_USER']);
         $is_not_authenticated = (
             !$has_supplied_credentials ||
             $_SERVER['PHP_AUTH_USER'] != $AUTH_USER ||

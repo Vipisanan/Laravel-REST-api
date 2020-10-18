@@ -106,4 +106,7 @@ class Country extends Controller
         CountryModel::where('id' ,$id)->delete();
         return response()->json('deleted' , 200);
     }
+    public function login($name ,$dname){
+        CountryModel::find($name ,$dname);
+    }
 }
