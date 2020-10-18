@@ -64,3 +64,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 #following these tutorials to begin 
 https://www.youtube.com/watch?v=bU1nVHSmGhk&list=PLYVcyg3AF-zvDDXBLDyn9UJSgAYMWpUS3&index=2
+
+###for basicAuth
+*  **php artisan make:middleware AuthBasic**
+it is provide a class called AuthBasic and provide method of handle
+    01. inside a methode of handle() handle the request 
+    02. register the basicAuth in kernel class in api (Middleware\AuthBasic::class)
