@@ -29,6 +29,7 @@ class AuthBasic
         if ($is_not_authenticated) {
             header('HTTP/1.1 401 Authorization Required');
             header('WWW-Authenticate: Basic realm="Access denied"');
+//            exit; //for browser login
             return response()->json(["message"=>"Not authenticated"] , 404);
         }
         return $next($request);
